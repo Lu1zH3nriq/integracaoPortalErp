@@ -1,2 +1,2 @@
-# integracaoPortalErp
-Integraçao de um portal de contabilidade com um erp, com a funcionalidade de buscar lancamentos financeiros contabeis e traze-los para dentro do portal de contabildade, tornando possivel a criação de relatórios para o contador analisar
+# backend-portal-erp
+backend criado para trazer lançamentos financeiros de um erp para um banco de dados mongodb para cada usuario fornecido de um portal de contabilidade via api.
