@@ -11,7 +11,7 @@ require('./db')
 app.use(express.urlencoded({ extended: true }))
 app.use(express.json())
 
-app.listen(3333);
+app.listen(3000);
 
 // ------------------------------CHAMA ROTA DO PORTAL----------------------------------------------------------------
 
